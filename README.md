@@ -1,5 +1,7 @@
 # TP 28 : SonarQube (local) — Analyse d'un projet Java Maven
 
+<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/0e26f697-d595-4fb7-ae94-ddfaf979dac5" />
+
 **Cours** : Architecture Microservices : Conception, Déploiement et Orchestration
 
 ## Objectif de l'activité
